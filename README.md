@@ -9,5 +9,5 @@
 ```
 docker build .
 docker tag <image_hash> chrischall/jdk-ecr-helper:11
-dockr push chrischall/jdk-ecr-helper:11
+docker push chrischall/jdk-ecr-helper:11
 ```
