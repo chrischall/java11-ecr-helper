@@ -1,5 +1,5 @@
 # java11-ecr-helper
-`openjdk:11-jdk-slim-buster` based image with:
+`openjdk:11-jdk-slim-bullseye` based image with:
 * amazon-ecr-credential-helper
 * git
 * postgresql-client
