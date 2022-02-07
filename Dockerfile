@@ -3,7 +3,6 @@ FROM openjdk:17-jdk-slim-bullseye
 RUN set -eux; \
   apt-get update \
   && apt-get install -y --no-install-recommends \
-    amazon-ecr-credential-helper \
     curl \
     git \
     postgresql-client \
